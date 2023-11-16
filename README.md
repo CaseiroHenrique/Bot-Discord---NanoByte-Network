@@ -26,4 +26,4 @@ Suporte e Atualizações Contínuas: A NanoByte Network se compromete a fornecer
  
 O Bot de Discord da NanoByte Network é uma ferramenta essencial para qualquer cliente que busca uma solução confiável e eficiente para gerenciar as autenticações de scripts. Com sua interface intuitiva e recursos robustos, ele estabelece um novo padrão para a gestão de segurança de produtos digitais.
 
-Versão: 1.0.1
+Versão: 1.0.2
